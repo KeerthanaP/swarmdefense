@@ -59,3 +59,9 @@ cd swarmdefense_project
 - `POST /api/run-scenario`: Executes an attack or benign scenario (supports JSON body or query params).
 - `POST /api/set-api-key`: Configures Gemini API key dynamically.
 - `POST /api/reset`: Resets swarm gateway and mock tools state.
+
+
+## License
+
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
