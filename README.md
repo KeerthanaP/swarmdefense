@@ -39,8 +39,8 @@ python server.py
 ```
 
 ### 2. Access the Application
-- **Security Operations Console (UI)**: [http://localhost:8000](http://localhost:8000)
-- **Interactive API Documentation (Swagger)**: [http://localhost:8000/docs](http://localhost:8000/docs)
+- **Security Operations Console (UI)**: [http://localhost:8001](http://localhost:8001)
+- **Interactive API Documentation (Swagger)**: [http://localhost:8001/docs](http://localhost:8001/docs)
 
 ---
 
