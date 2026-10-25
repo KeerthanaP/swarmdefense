@@ -60,7 +60,7 @@ cd swarmdefense_project
 - `POST /api/set-api-key`: Configures Gemini API key dynamically.
 - `POST /api/reset`: Resets swarm gateway and mock tools state.
 
-# Gemini API
+## Gemini API
 This project uses Google Gemini 3.8 Flash (`gemini-3.8-flash`) via the Google GenAI SDK for semantic security analysis.
 
 ## License
