@@ -27,7 +27,7 @@ Protects a multi-agent pipeline (`TriageAgent` &rarr; `SummarizerAgent` &rarr; `
 ## Quick Start
 - **Hosted Application**: https://swarmdefense.onrender.com/
 
-### 1. Launch with One Command
+### 1. Launch with One Command (in developer environment)
 ```bash
 ./run.sh
 ```
