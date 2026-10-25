@@ -39,6 +39,7 @@ python server.py
 ```
 
 ### 2. Access the Application
+- **Hosted Application**: https://swarmdefense.onrender.com/
 - **Security Operations Console (UI)**: [http://localhost:8001](http://localhost:8001)
 - **Interactive API Documentation (Swagger)**: [http://localhost:8001/docs](http://localhost:8001/docs)
 
